@@ -1,9 +1,9 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: ''
+title: 'Titolo del report bug'
 labels: good first issue
-assignees: ''
+assignees: 'Persone a cui assegnare'
 
 ---
 
